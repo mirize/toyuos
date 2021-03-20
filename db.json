@@ -1,40 +1,208 @@
-{
-   "zaim":[
+[
    {
-      "image_url":"https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-      "sum_one":"до 50 000 руб",
-      "percent":"1% в день",
-      "term_to":"до 365 дней",
+      "image_url":"https://zaimua.com.ua/img/miloan_logo.png",
       "license":"Лиц. № 651303532994988",
+      "sum_one":"12 000 грн",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"1400 отзывов (5 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1148&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/bbvs.png",
+      "license":"Лиц. № 90823532994988",
+      "sum_one":"15 000 грн",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"990 отзывов (4.90 из 5)",
+      "url":"https://trkleads.ru/click/63d7c3ca1091e24df3b84374cf92fdf8?aff_sub2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/sgroshi.jpg",
+      "license":"Лиц. № 623303532994123",
+      "sum_one":"10 000 грн",
+      "percent":"от 2%",
+      "term_to":"",
+      "komment":"670 отзывов (4.83 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1185&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/prostogr.png",
+      "sum_one":"20 000 грн",
+      "license":"Лиц. № 951303532995588",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"680 отзывов (4.70 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1242&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/logo-58.png",
+      "sum_one":"10 000 грн",
+      "license":"Лиц. № 641303532994956",
+      "percent":"от 0.1%",
+      "term_to":"",
+      "komment":"500 отзывов (4.78 из 5)",
+      "url":"https://pxl.leads.su/click/f2a8580f5eb2e82e3094c505835e656d?aff_sub2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/kredit7.jpg",
+      "sum_one":"до 10 000 грн.",
+      "license":"Лиц. № 001303532994913",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"509 отзывов (4.50 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1147&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/casuh.png",
+      "sum_one":"15 000 грн",
+      "license":"Лиц. № 781303532994944",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"488 отзывов (4.30 из 5)",
+      "url":"https://trkleads.ru/click/790a44368b67865eeabc09cf8a3ef304?aff_sub2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/mycre.png",
+      "sum_one":"6 000 грн",
+      "license":"Лиц. № 13533532994932",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"450 отзывов (4.33 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1309&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/creditplus-ua-kv.jpg.png",
+      "sum_one":"10 000 грн",
+      "license":"Лиц. № 45310353299293",
+      "percent":"от 0%",
+      "term_to":"",
+      "url":"https://tds.pdl-profit.com?offerid=1158&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/mowe.jpeg",
+      "sum_one":"17 000 грн",
+      "license":"Лиц. № 54356532994218",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"450 отзывов (4.30 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1160&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/creditkasa-ua-kv.jpg.png",
+      "sum_one":"10 000 грн",
+      "license":"Лиц. № 54242532955315",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"450 отзывов (4.23 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1203&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/yevrogroshi.png",
+      "sum_one":"5 000 грн",
+      "license":"Лиц. № 643303532994538",
+      "percent":"от 1.6%",
+      "term_to":"",
+      "komment":"490 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1165&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/alex-ua-kv.jpg.png",
+      "sum_one":"12 000 грн",
+      "license":"Лиц. № 653255329942534",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"400 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1172&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/ofing.png",
+      "sum_one":"4 000 грн",
+      "license":"Лиц. № 64303532994438",
+      "percent":"от 2.50%",
+      "term_to":"",
+      "komment":"420 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1163&affid=20776&subid=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/zecredit_logo.png",
+      "sum_one":"7 000 грн",
+      "license":"Лиц. № 453430353299434348",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"320 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1182&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/e-cash-logo-2.png",
+      "sum_one":"8 000 грн",
+      "license":"Лиц. № 64330353223488",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"370 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1178&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/egrlogo.png",
+      "sum_one":"5 000 грн",
+      "license":"Лиц. № 352330353232358",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"350 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1306&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/kachay.png",
+      "sum_one":"10 000 грн",
+      "license":"Лиц. № 65423532394328",
+      "percent":"от 0.01%",
+      "term_to":"",
+      "komment":"310 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1162&affid=20776&subid=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/moneyboom.png",
+      "sum_one":"15 000 грн",
+      "license":"Лиц. № 4632035329935538",
+      "percent":"от 1.75%",
+      "term_to":"",
+      "komment":"300 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1189&affid=20776&subid=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/soscredit1.jpg",
+      "sum_one":"7 000 грн",
+      "license":"Лиц. № 564253299248",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"300 отзывов (4.00 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1164&affid=20776&subid2=toprub"
+   },
+   {
+      "image_url":"https://zaimua.com.ua/img/vashago.png",
+      "sum_one":"7 000 грн",
+      "license":"Лиц. № 3452303532244228",
+      "percent":"от 1%",
+      "term_to":"",
       "komment":"188 отзывов (4.03 из 5)",
-      "url":"https://google.com"
+      "url":"https://trkleads.ru/click/f4e27dc6b04ea59c6eba71fa42babf19?aff_sub2=toprub"
    },
    {
-      "image_url":"https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-      "sum_one":"до 50 000 руб",
-      "percent":"0% в день",
-      "term_to":"до 365 дней",
-      "license":"Лиц. № 651303532994900",
-      "komment":"200 отзывов (5 из 5)",
-      "url":"https://www.homecredit.ru"
-   },
-   {
-      "image_url":"https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
-      "sum_one":"до 100 000 руб",
-      "percent":"2% в день",
-      "term_to":"до 365 дней",
-      "license":"Лиц. № 65130353299476",
+      "image_url":"https://zaimua.com.ua/img/mone.jpg.png",
+      "sum_one":"5 000 грн",
+      "license":"Лиц. № 34523035322228",
+      "percent":"от 0.01%",
+      "term_to":"",
       "komment":"188 отзывов (4.03 из 5)",
-      "url":"https://google.com"
+      "url":"https://tds.pdl-profit.com?offerid=1183&affid=20776&subid2=toprub"
    },
    {
-      "image_url":"https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
-      "sum_one":"до 60 000 руб",
-      "percent":"0% в день",
-      "term_to":"до 365 дней",
-      "license":"Лиц. № 651303532990000",
-      "komment":"188 отзывов (3.43 из 5)",
-      "url":"https://www.homecredit.ru"
+      "image_url":"https://zaimua.com.ua/img/ccc.png",
+      "sum_one":"15 000 грн",
+      "license":"Лиц. № 34534532244228",
+      "percent":"от 0%",
+      "term_to":"",
+      "komment":"188 отзывов (4.03 из 5)",
+      "url":"https://tds.pdl-profit.com?offerid=1175&affid=20776&subid2=toprub"
    }
 ]
-}
